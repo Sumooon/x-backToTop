@@ -1,7 +1,7 @@
 {
   "name": "x-backtotop",
   "description": "back to top plugins for vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "xiachengxing <xiachengxing@yodo1.com>",
   "license": "MIT",
   "private": false,
@@ -13,6 +13,11 @@
   "dependencies": {
     "vue": "^2.5.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yodo1-backend/x-backToTop.git"
+  },
+  "homepage": "https://github.com/Yodo1-backend/x-backToTop.git",
   "browserslist": [
     "> 1%",
     "last 2 versions",
